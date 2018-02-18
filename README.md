@@ -8,6 +8,6 @@ This repo is a curation of all my write-ups from various blogs.
   - [Short Circuit Assignment in JavaScript](https://dev.to/flexdinesh/short-circuit-assignment-in-javascript--4k80)
 
 
-  ## License
+## License
 
-  MIT © Dineshkumar Pandiyan
+MIT © Dineshkumar Pandiyan
