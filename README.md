@@ -10,4 +10,4 @@ This repo is a curation of all my write-ups from various blogs.
 
 ## License
 
-MIT © Dineshkumar Pandiyan
+MIT © Dinesh Pandiyan
