@@ -1,11 +1,10 @@
----
-title: Accessing Nested Objects in JavaScript
-published: true
-description: Accessing nested objects in JavaScript without getting choked by 'cannot read property of undefined' error
-tags: javascript, webdev, tutorial
----
+# Accessing Nested Objects in JavaScript
 
 Link - [Accessing Nested Objects in JavaScript](https://dev.to/flexdinesh/accessing-nested-objects-in-javascript--9m4)
+
+---
+
+## Content
 
 ![undefined error in JavaScript](https://image.ibb.co/i3ybGS/undefined_access.jpg)
 

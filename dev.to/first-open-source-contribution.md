@@ -1,12 +1,10 @@
----
-title: How I got started with Open-Source 🎉
-published: true
-description: A quick-start guide for beginners to get started with Open-Source
-tags: opensource, beginners
----
+# How I got started with Open-Source 🎉
 
 Link - [How I got started with Open-Source 🎉](https://dev.to/flexdinesh/how-i-got-started-with-open-source--882)
 
+---
+
+## Content
 
 _TLDR: I started with documentation instead of waiting for some big idea to get started._
 

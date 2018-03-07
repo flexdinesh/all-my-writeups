@@ -6,13 +6,6 @@ Link - [Publish your own NPM package 🎉](https://dev.to/flexdinesh/publish-you
 
 ## Content
 
----
-title: Publish your own NPM package 🎉
-published: true
-description: Intro to NPM packages and steps to publish one of your own to NPM registry.
-tags: javascript, node, howto, tutorial
----
-
 ![Publish your own NPM package](https://i.ytimg.com/vi/rTsz09zRuTU/maxresdefault.jpg)
 
 **_Note: There's an amazing boilerplate for [npm modules](https://github.com/flexdinesh/npm-module-boilerplate). This post is based on what I learned from setting it up._**

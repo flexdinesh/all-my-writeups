@@ -1,11 +1,10 @@
----
-title: Short Circuit Assignment in JavaScript
-published: true
-description: Assign default values to variables in JavaScript using short-circuit evalutation
-tags: javascript, webdev, tutorial
----
+# Short Circuit Assignment in JavaScript
 
 Link - [Short Circuit Assignment in JavaScript](https://dev.to/flexdinesh/short-circuit-assignment-in-javascript--4k80)
+
+---
+
+## Content
 
 ![JS short circuit assignment](https://image.ibb.co/c9duVn/short_circuit_alt.jpg)
 
