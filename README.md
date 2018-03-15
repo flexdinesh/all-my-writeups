@@ -12,39 +12,30 @@ I post my stuff to a few popular blogs -
 Here's a list down of all my write-ups.
 
 - How I got started with Open-Source - [
-  [The Practical Dev](https://dev.to/flexdinesh/how-i-got-started-with-open-source--882)
-  ]
-
+  [The Practical Dev](https://dev.to/flexdinesh/how-i-got-started-with-open-source--882) ]
 - Accessing Nested Objects in JavaScript - [
   [The Practical Dev](https://dev.to/flexdinesh/accessing-nested-objects-in-javascript--9m4),
   [codeburst](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576),
-  [Hacker Noon](https://hackernoon.com/accessing-nested-objects-in-javascript-f02f1bd6387f)
-  ]
-
+  [Hacker Noon](https://hackernoon.com/accessing-nested-objects-in-javascript-f02f1bd6387f) ]
 - Short Circuit Assignment in JavaScript - [
-  [The Practical Dev](https://dev.to/flexdinesh/short-circuit-assignment-in-javascript--4k80)
-  ]
-
+  [The Practical Dev](https://dev.to/flexdinesh/short-circuit-assignment-in-javascript--4k80) ]
 - Publish your own NPM package - [
   [The Practical Dev](https://dev.to/flexdinesh/publish-your-own-npm-package---5b71),
   [codeburst](https://codeburst.io/publish-your-own-npm-package-ff918698d450),
-  [Hacker Noon](https://hackernoon.com/publish-your-own-npm-package-946b19df577e)
-  ]
+  [Hacker Noon](https://hackernoon.com/publish-your-own-npm-package-946b19df577e) ]
 - Create your developer landing page with GitHub Pages - [
   [The Practical Dev](https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk),
   [codeburst](https://codeburst.io/create-your-developer-landing-page-with-github-pages-791c19227b30),
-  [Hacker Noon](https://hackernoon.com/create-your-developer-landing-page-with-github-pages-70c89b40d052)
-  ]
+  [Hacker Noon](https://hackernoon.com/create-your-developer-landing-page-with-github-pages-70c89b40d052) ]
 - React-Redux Boilerplate with Best Practices - [
   [The Practical Dev](https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5),
   [codeburst](https://codeburst.io/react-redux-boilerplate-with-best-practices-30c3fd8cc434),
-  [Hacker Noon](https://hackernoon.com/react-redux-boilerplate-with-best-practices-518909659f4d)
-  ]
+  [Hacker Noon](https://hackernoon.com/react-redux-boilerplate-with-best-practices-518909659f4d) ]
 - Upgrade to Webpack 4 - [
   [The Practical Dev](https://dev.to/flexdinesh/upgrade-to-webpack-4---5bc5),
   [codeburst](https://codeburst.io/upgrade-to-webpack-4-78b40b5251d9),
-  [Hacker Noon](https://hackernoon.com/upgrade-to-webpack-4-3ebb199aa9bf)
-  ]
+  [Hacker Noon](https://hackernoon.com/upgrade-to-webpack-4-3ebb199aa9bf) ]
+
 
 ## Mentions
 
