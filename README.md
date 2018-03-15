@@ -50,6 +50,7 @@ A few of my posts got featured in various blogs/sources.
 - [Most Popular Development Posts Of The Week (14 Mar 2018)](https://medium.com/daily-now/most-popular-development-posts-of-the-week-14-mar-2018-b10c1b746325) - [Create your developer landing page with GitHub Pages](https://codeburst.io/create-your-developer-landing-page-with-github-pages-791c19227b30)
 - JSK Weekly - March 14, 2018 (Email Newsletter) - [Publish your own NPM package](https://javascriptkicks.com/r/244076?url=https://codeburst.io/publish-your-own-npm-package-ff918698d450?gi=1408c7fdf0e4)
 - [Top Web & Software Development Articles — March 15, 2018](https://codeburst.io/top-web-software-development-articles-march-15-2018-3874e5effcaa) - [Create your developer landing page with GitHub Pages](https://codeburst.io/create-your-developer-landing-page-with-github-pages-791c19227b30)
+- [The Shoemaker's Children: A Developer Allegory [Mar 14, 2018]](https://dev.to/joncassdev/the-shoemakers-children-a-developer-allegory--65g) - [Create your developer landing page with GitHub Pages](https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk)
 
 ## License
 
